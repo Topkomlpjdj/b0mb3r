@@ -1,4 +1,4 @@
-Устоновка:
+Устоновка:0935319704
 
 pkg install python clang make openssl -y 
 
