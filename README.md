@@ -6,7 +6,7 @@ pkg install python clang make openssl -y
 pip3 install b0mb3r -U
 
 
-Запуск: 
+Запуск: 0935319704
 
 
 b0mb3r --port 1488
